@@ -1,0 +1,22 @@
+{
+  "name": "mobile-app-theme",
+  "version": "1.0.0",
+  "description": "Mobile App Theme Landing Page",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviredev/mobile-app-theme.git"
+  },
+  "author": "elviredev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elviredev/mobile-app-theme/issues"
+  },
+  "homepage": "https://elviredev.github.io/mobile-app-theme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
